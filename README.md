@@ -51,6 +51,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+
 <img width="824" height="540" alt="image" src="https://github.com/user-attachments/assets/44b71cfa-e3f3-45ef-8de0-47b0cf17bbc7" />
 
 **RESULT:**
